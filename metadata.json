@@ -1,0 +1,6 @@
+
+{
+  "name": "NIET Sales Performance Portal",
+  "description": "A high-end ERP-style sales analytics dashboard inspired by SAP ABAP RAP and AWS aesthetics, featuring real-time KPIs, monthly trends, category distribution, and secure OData connectivity.",
+  "requestFramePermissions": []
+}
