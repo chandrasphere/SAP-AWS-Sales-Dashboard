@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# SAP AWS Sales Dashboard
 
-# Run and deploy your AI Studio app
+This project is a high-performance sales performance portal built with **TypeScript** and **Vite**. It integrates SAP-style data visualization with AWS backend concepts to provide real-time sales insights.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+* Interactive Sales Analytics Dashboard.
+* Built with TypeScript for type-safe development.
+* Fast development and bundling using Vite.
+* Clean and professional UI for sales tracking.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1aFy60L_c7GCdj7DoTcatfvoS_F3s4gQv
+## 🛠️ Tech Stack
+* **Frontend:** TypeScript, HTML, CSS
+* **Build Tool:** Vite
+* **API Integration:** Google Gemini API (for AI-powered insights)
 
-## Run Locally
+## 💻 How to Run Locally
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/chandrasphere/SAP-AWS-Sales-Dashboard.git](https://github.com/chandrasphere/SAP-AWS-Sales-Dashboard.git)
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Set up Environment Variables:**
+    Create a `.env.local` file and add your Gemini API Key:
+    `GEMINI_API_KEY=your_key_here`
+4.  **Run the app:**
+    ```bash
+    npm run dev
+    ```
